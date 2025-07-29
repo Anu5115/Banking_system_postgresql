@@ -1,0 +1,11 @@
+id,name,dob,email,phone,address
+1,Ritika Sharma,1995-04-12,ritika.sharma@example.com,9876543210,"123 Civil Lines, Delhi"
+2,Aman Mehta,1992-11-23,aman.mehta@example.com,9834567890,"45 MG Road, Mumbai"
+3,Neha Verma,1998-06-18,neha.verma@example.com,9823456789,"789 Park Street, Kolkata"
+4,Ravi Kumar,1985-01-30,ravi.kumar@example.com,9845671234,"22 Sector 14, Gurugram"
+5,Sneha Iyer,1990-08-25,sneha.iyer@example.com,9812312312,"101 Anna Nagar, Chennai"
+6,Mohit Sinha,1993-09-15,mohit.sinha@example.com,9809090909,"56 Boring Road, Patna"
+7,Anjali Patel,1996-02-10,anjali.patel@example.com,9871112233,"12 SG Highway, Ahmedabad"
+8,Tarun Das,1991-12-05,tarun.das@example.com,9898765432,"88 Salt Lake, Kolkata"
+9,Pooja Reddy,1994-07-08,pooja.reddy@example.com,9819988776,"77 Jubilee Hills, Hyderabad"
+10,Deepak Joshi,1989-03-20,deepak.joshi@example.com,9888123456,"33 Hawa Mahal Road, Jaipur"
